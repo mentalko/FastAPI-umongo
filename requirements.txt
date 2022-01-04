@@ -1,0 +1,4 @@
+motor
+umongo[motor]
+fastapi
+uvicorn

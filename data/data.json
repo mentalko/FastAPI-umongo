@@ -1,0 +1,28 @@
+[{
+    "nick": "mze", "lastname": "Mao", "firstname": "Zedong",
+    "birthday": "2010-09-23", "password": "Serve the people"
+},
+{
+    "nick": "lsh", "lastname": "Liu", "firstname": "Shaoqi",
+    "birthday": "2010-09-23", "password": "Dare to think, dare to act"
+},
+{
+    "nick": "lxia", "lastname": "Li", "firstname": "Xiannian",
+    "birthday":"2010-09-23", "password": "To rebel is justified"
+},
+{
+    "nick": "ysh", "lastname": "Yang", "firstname": "Shangkun",
+    "birthday": "2010-09-23", "password": "Smash the gang of four"
+},
+{
+    "nick": "jze", "lastname": "Jiang", "firstname": "Zemin",
+    "birthday": "2010-09-23", "password": "Seek truth from facts"
+},
+{
+    "nick": "huji", "lastname": "Hu", "firstname": "Jintao",
+    "birthday": "2010-09-23", "password": "It is good to have just 1 child"
+},
+{
+    "nick": "xiji", "lastname": "Xi", "firstname": "Jinping",
+    "birthday": "2010-09-23", "password": "Achieve the 4 modernisations"
+}]
